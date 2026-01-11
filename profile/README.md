@@ -1,32 +1,49 @@
-<div align="center">
+```
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                │
+│  ██████╗ ███████╗██╗   ██╗ ██████╗ ███╗   ██╗██████╗                           │
+│  ██╔══██╗██╔════╝╚██╗ ██╔╝██╔═══██╗████╗  ██║██╔══██╗                          │
+│  ██████╔╝█████╗   ╚████╔╝ ██║   ██║██╔██╗ ██║██║  ██║                          │
+│  ██╔══██╗██╔══╝    ╚██╔╝  ██║   ██║██║╚██╗██║██║  ██║                          │
+│  ██████╔╝███████╗   ██║   ╚██████╔╝██║ ╚████║██████╔╝                          │
+│  ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═════╝                           │
+│                                                                                │
+│  ██╗      ██████╗  ██████╗ ██╗ ██████╗    ██╗      █████╗ ██████╗ ███████╗     │
+│  ██║     ██╔═══██╗██╔════╝ ██║██╔════╝    ██║     ██╔══██╗██╔══██╗██╔════╝     │
+│  ██║     ██║   ██║██║  ███╗██║██║         ██║     ███████║██████╔╝███████╗     │
+│  ██║     ██║   ██║██║   ██║██║██║         ██║     ██╔══██║██╔══██╗╚════██║     │
+│  ███████╗╚██████╔╝╚██████╔╝██║╚██████╗    ███████╗██║  ██║██████╔╝███████║     │
+│  ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝ ╚═════╝    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝     │
+│                                                                                │
+│  > EXPERIMENTAL SOFTWARE LAB                                                   │
+│  > AI-powered games • Innovative dev tools • Building what's next              │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
 
-# Building Beyond
+<br>
 
-**Experimental software lab** · AI-powered games · Innovative dev tools
+### 🎮 Loreguard — NPCs that don't hallucinate
 
-We explore what's possible when logic meets imagination.
+Fine-tuned LLMs for game characters with knowledge-grounded generation.
 
-</div>
+```diff
+  Player: "Where is the secret base?"
+
+- Traditional LLM: "The base is in the northern mountains..."
+-                  (hallucinated)
+
++ Loreguard NPC:   "I don't know anything about a secret base."
++                  (grounded)
+```
+
+**→** [`loreguard-cli`](https://github.com/beyond-logic-labs/loreguard-cli) — Local inference client  
+**→** [Models on 🤗 HuggingFace](https://huggingface.co/beyond-logic-labs)
 
 ---
 
-### 🎮 Loreguard
-
-Fine-tuned LLMs for game NPCs with knowledge-grounded generation and hallucination prevention.
-
-```
-Player: "Where is the secret base?"
-NPC:    "I don't know anything about a secret base."
-        (grounded - respects knowledge boundaries)
-```
-
-**→** [loreguard-cli](https://github.com/beyond-logic-labs/loreguard-cli) · Local inference client  
-**→** [Models on HuggingFace](https://huggingface.co/beyond-logic-labs)
-
----
-
-<div align="center">
-
-[Website](https://beyondlogiclabs.com) · [HuggingFace](https://huggingface.co/beyond-logic-labs) · [Dev Log](https://beyondlogiclabs.com/devlog)
-
-</div>
+<p align="center">
+<a href="https://beyondlogiclabs.com">Website</a> · 
+<a href="https://huggingface.co/beyond-logic-labs">HuggingFace</a> · 
+<a href="https://beyondlogiclabs.com/devlog">Dev Log</a>
+</p>
