@@ -1,14 +1,12 @@
-```
-> BEYOND LOGIC LABS ═══════════════════════════════════════════════════════════
-  Experimental software lab • AI-powered games • Innovative dev tools
-```
+<h3 align="center">⚡ BEYOND LOGIC LABS ⚡</h3>
+<p align="center"><i>Experimental software lab • AI-powered games • Innovative dev tools</i></p>
 
-### Projects
+---
 
 🎮 **Netshell** — Hacker RPG set in 1997 internet  
 🛡️ **Loreguard** — NPC engine with hallucination prevention ([models](https://huggingface.co/beyond-logic-labs))  
 💬 **Debater** — AI-powered argument analysis
 
----
-
-[Website](https://beyondlogiclabs.com) · [HuggingFace](https://huggingface.co/beyond-logic-labs) · [Dev Log](https://beyondlogiclabs.com/devlog)
+<p align="center">
+<a href="https://beyondlogiclabs.com">Website</a> · <a href="https://huggingface.co/beyond-logic-labs">HuggingFace</a> · <a href="https://beyondlogiclabs.com/devlog">Dev Log</a>
+</p>
