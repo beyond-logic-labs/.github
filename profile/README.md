@@ -1,4 +1,8 @@
-<h3 align="center">⚡ BEYOND LOGIC LABS ⚡</h3>
+<pre align="center">
+╔═══════════════════════════════════════════╗
+║      ⚡ BEYOND  LOGIC  LABS ⚡             ║
+╚═══════════════════════════════════════════╝
+</pre>
 <p align="center"><i>Experimental software lab • AI-powered games • Innovative dev tools</i></p>
 
 ---
